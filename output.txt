@@ -1,0 +1,6 @@
+duplicate number is: 1
+missing number is: 4
+duplicate number is: 3
+missing number is: 6
+duplicate number is: 2
+missing number is: 7
